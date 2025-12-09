@@ -4,16 +4,19 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
-    <title>Hamed Behrouzi — Professional Updates</title>
+    <title>Hamed Behrouzi — Identity Graph & Professional Updates</title>
     <link>https://hamedbehrouzi.com</link>
-    <description>Filmography updates, AI research, datasets, identity graph releases, and artistic work.</description>
+    <description>Official feed for filmography updates, research releases, datasets, identity graph versions, and artistic works.</description>
     <language>en</language>
-    <atom:link href="https://hamedbehrouzi.github.io/hamedbehrouzi-rss/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <atom:link href="https://hamedanime-source.github.io/hamedbehrouzi-rss/rss.xml"
+               rel="self"
+               type="application/rss+xml"/>
 
     <item>
       <title>Identity Graph Q1 Edition (v02) — Published</title>
       <link>https://hamedbehrouzi.com/idg/Q1-v02</link>
-      <description>Updated Identity Graph dataset including nodes, edges, metadata, and JSON-LD improvements.</description>
+      <description>Major release of updated Identity Graph dataset.</description>
       <guid>https://hamedbehrouzi.com/idg/Q1-v02</guid>
       <pubDate>Mon, 09 Dec 2025 10:00:00 +0900</pubDate>
     </item>
@@ -21,17 +24,9 @@
     <item>
       <title>Filmography Update — The Old Guard 2</title>
       <link>https://hamedbehrouzi.com/film/oldguard2</link>
-      <description>Senior/Technical animator credit updated.</description>
+      <description>Updated Senior/Technical animator credit.</description>
       <guid>https://hamedbehrouzi.com/film/oldguard2</guid>
       <pubDate>Mon, 09 Dec 2025 09:30:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>New Research: Empathic Intelligence — AI Ethical Framework</title>
-      <link>https://hamedbehrouzi.com/research/empathic-intelligence</link>
-      <description>Published on Zenodo and indexed globally.</description>
-      <guid>https://hamedbehrouzi.com/research/empathic-intelligence</guid>
-      <pubDate>Mon, 09 Dec 2025 09:00:00 +0900</pubDate>
     </item>
 
   </channel>
