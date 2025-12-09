@@ -9,30 +9,41 @@
     <description>Filmography updates, AI research, datasets, identity graph releases, and artistic work.</description>
     <language>en</language>
 
+    <!-- FIXED: correct self-reference -->
     <atom:link href="https://hamedanime-source.github.io/hamedbehrouzi-rss/rss.xml"
-               rel="self" type="application/rss+xml"/>
+               rel="self"
+               type="application/rss+xml"/>
 
+    <!-- ITEM 1 -->
     <item>
       <title>Identity Graph Q1 Edition (v02) — Published</title>
       <link>https://hamedbehrouzi.com/idg/Q1-v02</link>
       <description>Updated Identity Graph dataset including nodes, edges, metadata, and JSON-LD improvements.</description>
       <guid>https://hamedbehrouzi.com/idg/Q1-v02</guid>
+
+      <!-- FIXED: Tue instead of Mon -->
       <pubDate>Tue, 09 Dec 2025 10:00:00 +0900</pubDate>
     </item>
 
+    <!-- ITEM 2 -->
     <item>
       <title>Filmography Update — The Old Guard 2</title>
       <link>https://hamedbehrouzi.com/film/oldguard2</link>
       <description>Senior/Technical animator credit updated.</description>
       <guid>https://hamedbehrouzi.com/film/oldguard2</guid>
+
+      <!-- FIXED -->
       <pubDate>Tue, 09 Dec 2025 09:30:00 +0900</pubDate>
     </item>
 
+    <!-- ITEM 3 -->
     <item>
       <title>New Research: Empathic Intelligence — AI Ethical Framework</title>
       <link>https://hamedbehrouzi.com/research/empathic-intelligence</link>
       <description>Published on Zenodo and indexed globally.</description>
       <guid>https://hamedbehrouzi.com/research/empathic-intelligence</guid>
+
+      <!-- FIXED -->
       <pubDate>Tue, 09 Dec 2025 09:00:00 +0900</pubDate>
     </item>
 
