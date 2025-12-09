@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hamed Behrouzi — Naver SmartBlock Feed</title>
+    <link>https://hamedbehrouzi.com/naver</link>
+    <description>KR-optimized feed for Naver search and SmartBlock.</description>
+    <language>ko</language>
+
+    <item>
+      <title>Hamed Behrouzi — 새로운 연구 업데이트</title>
+      <link>https://hamedbehrouzi.com/kr/research</link>
+      <description>AI 윤리 및 절차적 애니메이션 업데이트.</description>
+      <guid>https://hamedbehrouzi.com/kr/research</guid>
+      <pubDate>Mon, 09 Dec 2025 07:45:00 +0900</pubDate>
+    </item>
+
+  </channel>
+</rss>
